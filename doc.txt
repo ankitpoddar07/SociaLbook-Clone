@@ -1,0 +1,16 @@
+https://fontawesome.com/
+
+
+Ankit Kumar is praised for his clear tutorials, beginner-friendly projects, and impactful mentoring,
+ making learning web development accessible and enjoyable.
+
+Social media site frontend design using HTML, CSS and JavaScript. Home Page and Profile page, Responsive Design and Dark Mode Web page.
+
+In this video we will learn how to make a social media website design like Facebook. We will make this social media website template using HTML and CSS
+step by step. As you can see on my computer screen, this is the social media website design that we are going to create in this video, and this website
+design looks like Facebook.
+
+We will add a toggle button on this website design, that button will change the website from dark mode to light or from the light mode to the dark mode.
+
+We will create this drop-down menu, light mode and dark mode switching option using simple JavaScript.
+So keep Watching this video till the end to create a Social Network Website design using HTML, CSS and JavaScript. 
